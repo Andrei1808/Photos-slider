@@ -5,7 +5,7 @@ for (let slide of slides) {
         clearActiveClasses();
 
         slide.classList.add('active');
-    } )
+    })
 }
 
 
